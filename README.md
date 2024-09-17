@@ -1,0 +1,1 @@
+Portfolio project from "Data Science Foundations II" course from codecademy. The data is provided by the Ntaional Parks Service and contains infromation about endangered species. Exploratory analysis, data wrangling and tidying, fundamental statistics, and data visualization.
